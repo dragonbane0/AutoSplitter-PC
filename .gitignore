@@ -1,0 +1,13 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/.vs/Wind Waker/v14/.suo
+/bin/Debug
+/bin/Release
+/bin/tww.zip
+/obj/x86/Debug
+/obj/x86/Release
+/publish
+/.vs
+/Wind Waker_TemporaryKey.pfx
